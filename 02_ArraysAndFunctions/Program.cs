@@ -15,16 +15,33 @@
 
 //Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 
-int CreateNumber()
+// int CreateNumber()
+// {
+//     return new Random().Next(1,50000);
+// }
+
+// int a = CreateNumber();
+// Console.WriteLine(a);
+// if (a/100 >= 1)
+// {
+//     string str = a.ToString();
+//     Console.WriteLine(str[2]);
+// }
+// else Console.WriteLine("третьей цифры нет");
+
+
+//Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+
+int CreateNumber(int min, int max)
 {
-    return new Random().Next(1,50000);
+    int a = new Random().Next(min,max+1);
+    return a;
 }
 
-int a = CreateNumber();
-Console.WriteLine(a);
-if (a/100 >= 1)
+int day = CreateNumber(1, 7);
+Console.Write(day);
+if(day/5==0) 
 {
-    string str = a.ToString();
-    Console.WriteLine(str[2]);
+Console.WriteLine(" - будний день");
 }
-else Console.WriteLine("третьей цифры нет");
+else Console.WriteLine(" - выходной день");
