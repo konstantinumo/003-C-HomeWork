@@ -1,0 +1,15 @@
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\02_ArraysAndFunctions\obj\Debug\net6.0\02_ArraysAndFunctions.csproj.AssemblyReference.cache
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\02_ArraysAndFunctions\obj\Debug\net6.0\02_ArraysAndFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\02_ArraysAndFunctions\obj\Debug\net6.0\02_ArraysAndFunctions.AssemblyInfoInputs.cache
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\02_ArraysAndFunctions\obj\Debug\net6.0\02_ArraysAndFunctions.AssemblyInfo.cs
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\02_ArraysAndFunctions\obj\Debug\net6.0\02_ArraysAndFunctions.csproj.CoreCompileInputs.cache
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\02_ArraysAndFunctions\bin\Debug\net6.0\02_ArraysAndFunctions.exe
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\02_ArraysAndFunctions\bin\Debug\net6.0\02_ArraysAndFunctions.deps.json
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\02_ArraysAndFunctions\bin\Debug\net6.0\02_ArraysAndFunctions.runtimeconfig.json
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\02_ArraysAndFunctions\bin\Debug\net6.0\02_ArraysAndFunctions.dll
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\02_ArraysAndFunctions\bin\Debug\net6.0\02_ArraysAndFunctions.pdb
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\02_ArraysAndFunctions\obj\Debug\net6.0\02_ArraysAndFunctions.dll
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\02_ArraysAndFunctions\obj\Debug\net6.0\refint\02_ArraysAndFunctions.dll
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\02_ArraysAndFunctions\obj\Debug\net6.0\02_ArraysAndFunctions.pdb
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\02_ArraysAndFunctions\obj\Debug\net6.0\02_ArraysAndFunctions.genruntimeconfig.cache
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\02_ArraysAndFunctions\obj\Debug\net6.0\ref\02_ArraysAndFunctions.dll
