@@ -1,0 +1,15 @@
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\01-FirstLook\bin\Debug\net6.0\01-FirstLook.exe
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\01-FirstLook\bin\Debug\net6.0\01-FirstLook.deps.json
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\01-FirstLook\bin\Debug\net6.0\01-FirstLook.runtimeconfig.json
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\01-FirstLook\bin\Debug\net6.0\01-FirstLook.dll
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\01-FirstLook\bin\Debug\net6.0\01-FirstLook.pdb
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\01-FirstLook\obj\Debug\net6.0\01-FirstLook.csproj.AssemblyReference.cache
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\01-FirstLook\obj\Debug\net6.0\01-FirstLook.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\01-FirstLook\obj\Debug\net6.0\01-FirstLook.AssemblyInfoInputs.cache
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\01-FirstLook\obj\Debug\net6.0\01-FirstLook.AssemblyInfo.cs
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\01-FirstLook\obj\Debug\net6.0\01-FirstLook.csproj.CoreCompileInputs.cache
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\01-FirstLook\obj\Debug\net6.0\01-FirstLook.dll
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\01-FirstLook\obj\Debug\net6.0\refint\01-FirstLook.dll
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\01-FirstLook\obj\Debug\net6.0\01-FirstLook.pdb
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\01-FirstLook\obj\Debug\net6.0\01-FirstLook.genruntimeconfig.cache
+C:\_Study\05_GeekBrains\01_QA\003-C#-HomeWork\01-FirstLook\obj\Debug\net6.0\ref\01-FirstLook.dll
