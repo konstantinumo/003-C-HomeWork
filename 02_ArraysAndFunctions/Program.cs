@@ -40,7 +40,7 @@ int CreateNumber(int min, int max)
 
 int day = CreateNumber(1, 7);
 Console.Write(day);
-if(day/5==0) 
+if(day/6==0) 
 {
 Console.WriteLine(" - будний день");
 }
